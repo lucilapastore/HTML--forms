@@ -9,7 +9,7 @@ You can check my live version [here]()
 https://www.mint.com/
 
 # Built With:
-HTML5 CSS3
+HTML5 & CSS3
 
 # Author
 Lucila Pastore https://github.com/lucilapastore
