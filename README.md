@@ -13,6 +13,3 @@ HTML5 & CSS3
 
 # Author
 Lucila Pastore https://github.com/lucilapastore
-
-# Example
-See below for the result. 
