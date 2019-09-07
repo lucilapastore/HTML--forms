@@ -1,9 +1,8 @@
 # Project: HTML Forms
-# Project Specifications:
 This project consists of building an HTML document that matches the appearance of mint.com’s signup page. You can find the original project specifications [here](https://www.theodinproject.com/courses/html5-and-css3/lessons/html-forms)
 
 # Live Version:
-You can check my live version [here]()
+You can check my live version [here](https://lucilapastore.github.io/HTML-Forms/)
 
 # Source Page:
 https://www.mint.com/
@@ -13,6 +12,3 @@ HTML5 & CSS3
 
 # Author
 Lucila Pastore https://github.com/lucilapastore
-
-# Example
-See below for the result. 
